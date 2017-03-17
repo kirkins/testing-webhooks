@@ -1,0 +1,255 @@
+[
+  {
+    "front": {
+      "text": "Never quit!",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "LEARN CHINESE - Cucumber\n黃(huáng)瓜(guā)\nLucky Numbers 12, 22, 44, 35, 45, 2",
+      "language": "Chinese",
+      "learn-chinese": "Cucumber",
+      "chinese": "黃(huáng)瓜(guā)",
+      "lucky-numbers": [12, 22, 44, 35, 45, 2]
+    }
+  },
+  {
+    "front": {
+      "fortune": "You will be rewarded for your efforts.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous serez récompensé pour vos efforts.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Stop searching forever, happiness is just next to you.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Cessez de chercher sans arrêt, le bonheur est tout près de vous.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You will be proud in manner but tolerant and generous.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous serez fier dans vos agissements mais toléran et généreux.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You have an unusual talent for success, use it properly.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous avez un talent exceptionnel pour la réussite, utilisez le correctement.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Idleness is the holiday of the fools.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "L'oisiveté est le repos des sots.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Never trouble trouble till trouble troubles you.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Ne cherchez pas les ennuis tant qu'ils ne vous trouvent pas.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You will be showered with good luck.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous allez être inondé de chance.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Patience will triumph.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "La patience triomphera.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Your future is as boundless as the lofty sky.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Votre avenir est sans limite comme le firmament.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Enjoying means sharing.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Le plaisir est dans le partage.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "The world is always ready to receive talent with open arms.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Le monde accueille toujours le talent à bras ouverts.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Generosity and perfection are your everlasting goals.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "La perfection et la générosité sont vos perpétuels objectifs.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Good news will come to you by email.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "De bonnes nouvelles viendront par courriel.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Accept the next proposition you hear.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Acceptez la prochaine proposition que vous entendrez.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "What's vice today may be virtue tomorrow.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vice d'aujourd'hui peut devenir vertu de demain.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You are a person of culture.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous êtes une personne cultivée.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You will step on the soil of many countries.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vos pieds fouleront la terre de nombreux pays.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You love Chinese food.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous adorez la nourriture chinoise.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "A liear is not believed even though he tells the truth.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Même si un menteur dit la vérite, il ne sera pa cru.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You get what you want through your charm and personality.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous obtiendrez ce que vous désirez grâce à votre personnalité et votre charme.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Be spontaneous.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Soyez Spontané.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "People find it difficult to resist your persuasive manner.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Les gens parviennent difficilement à résister à votre persuasion.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "Keep your plans secret for now.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "ne dévoilez pas vos plans immédiatement.",
+      "language": "French"
+    }
+  },
+  {
+    "front": {
+      "fortune": "You are never bitter, deceptive or petty.",
+      "language": "English"
+    },
+    "reverse": {
+      "raw": "Vous n'êtes jamais amer, trompeur ou médiocre.",
+      "language": "French"
+    }
+  }
+]
